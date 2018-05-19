@@ -1,0 +1,25 @@
+1) inteiro, float, String e booleano, null
+
+2) application/json
+
+3) O valar de nulo está na sintaxe errada para o formato JSON(nil, ao invéz de null)
+
+4)
+Bicycle {
+	"cadence": 9,
+	"gear": 1000,
+	"speed": 350
+}
+
+5)
+
+objeto{
+	"cidades":["Goiânia","Trindade"],
+	"salada": "alface",
+	"altura":2,3,
+	"sabor": ""
+}
+
+6)
+
+7)

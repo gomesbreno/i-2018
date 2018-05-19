@@ -1,0 +1,18 @@
+<alunos>
+  <aluno>
+    <nome>breno</nome>
+    <email>breno@email</email>
+  </aluno>
+  <aluno>
+    <nome>Lincon</nome>
+    <email>lincon@email</email>
+  </aluno>
+  <aluno>
+    <nome>Matheus</nome>
+    <email>matheus@email</email>
+  </aluno>
+  <aluno>
+    <nome>Jo�o</nome>
+    <email>jo�o@email.com</email>
+  </aluno>
+</alunos>
